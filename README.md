@@ -7,9 +7,8 @@ Proyecto para la asignatura **Aprendizaje Automático**, que compara los modelos
 ## Contenido del repositorio
  
 ```
-├── LDA_vs_QDA_Wine_sin_tratamiento.ipynb   # Notebook principal (código comentado)
+├── LDA_vs_QDA_Wine_sin_tratamiento.ipynb    # Notebook principal 
 ├── README.md                                # Este archivo
-└── data/                                    # (opcional) instrucciones para obtener el dataset
 ```
  
 ## Sobre el dataset
@@ -59,4 +58,4 @@ jupyter notebook LDA_vs_QDA_Wine_sin_tratamiento.ipynb
 - Se concluye que, aunque ambos modelos funcionan sin estandarización, LDA es preferible por su simplicidad y menor sensibilidad a la escala, mientras que QDA es más adecuado cuando se sospecha de covarianzas distintas entre clases y se cuenta con datos estandarizados.
 ## Enlace del Colab (permisos de visualización)
  
-> Agregar aquí el enlace compartido del notebook en Google Colab con permisos de visualización, una vez subido a Google Drive.
+> (https://colab.research.google.com/drive/1rDikdkdmWBR55E8fH29D9XyEw6BK0OGq?usp=sharing).
